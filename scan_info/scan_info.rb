@@ -56,6 +56,9 @@ until raw_file.eof
 end
 puts "total channels : #{list.size}"
 
+for service in list
+	puts service
+end
 #puts raw_file.readline
 
 =begin
