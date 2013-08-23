@@ -1,0 +1,438 @@
+0000 (0x2c455008) :  CM_ShowThisChannel] programNo : 25664, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 800-  0,   CUSTOM(1), v : 0, S1.P30.M800.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  65, a->  66, pcr->  65, ServiceID->6440 : ServiceName : The HITS
+0001 (0x2c455064) :  CM_ShowThisChannel] programNo : 25728, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 801-  0,   CUSTOM(1), v : 1, S1.P30.M801.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  C9, a->  CA, pcr->  C9, ServiceID->6480 : ServiceName : TMF
+0002 (0x2c4550c0) :  CM_ShowThisChannel] programNo : 25792, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 802-  0,   CUSTOM(1), v : 2, S1.P30.M802.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 12D, a-> 12E, pcr-> 12D, ServiceID->64c0 : ServiceName : UKTV Br'tIdeas
+0003 (0x2c45511c) :  CM_ShowThisChannel] programNo : 25856, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 803-  0,   CUSTOM(1), v : 3, S1.P30.M803.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr-> 12D, ServiceID->6500 : ServiceName : f tn
+0004 (0x2c455178) :  CM_ShowThisChannel] programNo : 25920, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 804-  0,   CUSTOM(1), v : 4, S1.P30.M804.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 1F5, a-> 1F6, pcr-> 1F5, ServiceID->6540 : ServiceName : Ideal World
+0005 (0x2c4551d4) :  CM_ShowThisChannel] programNo : 26176, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17184-  0,   CUSTOM(1), v : 5, S1.P30.M800.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 44D, pcr-> 44D, ServiceID->6640 : ServiceName : Kiss
+0006 (0x2c455230) :  CM_ShowThisChannel] programNo : 26240, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17185-  0,   CUSTOM(1), v : 6, S1.P30.M801.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 4B1, pcr-> 4B1, ServiceID->6680 : ServiceName : Smash Hits!
+0007 (0x2c45528c) :  CM_ShowThisChannel] programNo : 26304, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17186-  0,   CUSTOM(1), v : 7, S1.P30.M802.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 515, pcr-> 515, ServiceID->66c0 : ServiceName : Kerrang!
+0008 (0x2c4552e8) :  CM_ShowThisChannel] programNo : 26368, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17187-  0,   CUSTOM(1), v : 8, S1.P30.M803.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 579, pcr-> 579, ServiceID->6700 : ServiceName : smooth fm
+0009 (0x2c455344) :  CM_ShowThisChannel] programNo : 26432, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17188-  0,   CUSTOM(1), v : 9, S1.P30.M804.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 5DD, pcr-> 5DD, ServiceID->6740 : ServiceName : oneword
+0010 (0x2c4553a0) :  CM_ShowThisChannel] programNo : 26496, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17189-  0,   CUSTOM(1), v : 10, S1.P30.M805.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 641, pcr-> 641, ServiceID->6780 : ServiceName : BBC World Sv.
+0011 (0x2c4553fc) :  CM_ShowThisChannel] programNo : 26560, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17190-  0,   CUSTOM(1), v : 11, S1.P30.M806.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 6A5, pcr-> 6A5, ServiceID->67c0 : ServiceName : The Hits Radio
+0012 (0x2c455458) :  CM_ShowThisChannel] programNo : 26624, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17191-  0,   CUSTOM(1), v : 12, S1.P30.M807.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 709, pcr-> 709, ServiceID->6800 : ServiceName : Magic
+0013 (0x2c4554b4) :  CM_ShowThisChannel] programNo : 26688, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17192-  0,   CUSTOM(1), v : 13, S1.P30.M808.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 76D, pcr-> 76D, ServiceID->6840 : ServiceName : Q
+0014 (0x2c455510) :  CM_ShowThisChannel] programNo : 27072, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 805-  0,   CUSTOM(1), v : 14, S1.P30.M805.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 259, a-> 25A, pcr-> 259, ServiceID->69c0 : ServiceName : ITV Play
+0015 (0x2c45556c) :  CM_ShowThisChannel] programNo : 27136, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 806-  0,   CUSTOM(1), v : 15, S1.P30.M806.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 2BD, a-> 2BE, pcr-> 2BD, ServiceID->6a00 : ServiceName : Film4 
+0016 (0x2c4555c8) :  CM_ShowThisChannel] programNo : 23, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 807-  0,   CUSTOM(1), v : 16, S1.P33.M807.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> 2C6, a-> 2C7, pcr-> 2C6, ServiceID->0017 : ServiceName : Servizio 23
+0017 (0x2c455624) :  CM_ShowThisChannel] programNo : 24, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 808-  0,   CUSTOM(1), v : 17, S1.P33.M808.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> 2D0, a-> 2D1, pcr-> 2D0, ServiceID->0018 : ServiceName : Servizio 24 
+0018 (0x2c455680) :  CM_ShowThisChannel] programNo : 25, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 809-  0,   CUSTOM(1), v : 18, S1.P33.M809.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> 2DA, a-> 2DB, pcr-> 2DA, ServiceID->0019 : ServiceName : Servizio 25
+0019 (0x2c4556dc) :  CM_ShowThisChannel] programNo : 26, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 810-  0,   CUSTOM(1), v : 19, S1.P33.M810.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> 2E4, a-> 2E5, pcr-> 2E4, ServiceID->001a : ServiceName : Servizio 26
+0020 (0x2c455738) :  CM_ShowThisChannel] programNo : 29, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 811-  0,   CUSTOM(1), v : 20, S1.P33.M811.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> 30C, a-> 30D, pcr-> 30C, ServiceID->001d : ServiceName : Servizio 29
+0021 (0x2c455794) :  CM_ShowThisChannel] programNo : 30, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 812-  0,   CUSTOM(1), v : 21, S1.P33.M812.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> 23A, a-> 23B, pcr-> 23A, ServiceID->001e : ServiceName : Servizio 30
+0022 (0x2c4557f0) :  CM_ShowThisChannel] programNo : 141, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 813-  0,   CUSTOM(1), v : 22, S1.P33.M813.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 2C6, a-> 2C7, pcr-> 2C6, ServiceID->008d : ServiceName : CANALE 5
+0023 (0x2c45584c) :  CM_ShowThisChannel] programNo : 142, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 814-  0,   CUSTOM(1), v : 23, S1.P33.M814.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 2D0, a-> 2D1, pcr-> 2D0, ServiceID->008e : ServiceName : ITALIA 1
+0024 (0x2c4558a8) :  CM_ShowThisChannel] programNo : 143, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 815-  0,   CUSTOM(1), v : 24, S1.P33.M815.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 2DA, a-> 2DB, pcr-> 2DA, ServiceID->008f : ServiceName : RETE 4
+0025 (0x2c455904) :  CM_ShowThisChannel] programNo : 145, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 816-  0,   CUSTOM(1), v : 25, S1.P33.M816.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 2E4, a-> 2E5, pcr-> 2E4, ServiceID->0091 : ServiceName : Boing
+0026 (0x2c455960) :  CM_ShowThisChannel] programNo : 146, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 817-  0,   CUSTOM(1), v : 26, S1.P33.M817.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 30C, a-> 30D, pcr-> 30C, ServiceID->0092 : ServiceName : Iris
+0027 (0x2c4559bc) :  CM_ShowThisChannel] programNo : 153, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 818-  0,   CUSTOM(1), v : 27, S1.P33.M818.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 23A, a-> 23B, pcr-> 23A, ServiceID->0099 : ServiceName : Class News
+0028 (0x2c455a18) :  CM_ShowThisChannel] programNo : 154, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 819-  0,   CUSTOM(1), v : 28, S1.P33.M819.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 244, a-> 245, pcr-> 244, ServiceID->009a : ServiceName : Coming Soon
+0029 (0x2c455a74) :  CM_ShowThisChannel] programNo : 155, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 820-  0,   CUSTOM(1), v : 29, S1.P33.M820.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 24E, a-> 24F, pcr-> 24E, ServiceID->009b : ServiceName : BBC World
+0030 (0x2c455ad0) :  CM_ShowThisChannel] programNo : 1281, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV,  50- 50,   CUSTOM(1), v : 30, S1.P34.M50.m50
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->4078, a->  83, pcr->  78, ServiceID->0501 : ServiceName : TEST HD1
+0031 (0x2c455b2c) :  CM_ShowThisChannel] programNo : 1282, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV,  51- 51,   CUSTOM(1), v : 31, S1.P34.M51.m51
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->  DC, ServiceID->0502 : ServiceName : TEST HD2
+0032 (0x2c455b88) :  CM_ShowThisChannel] programNo : 1283, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV,  52- 52,   CUSTOM(1), v : 32, S1.P34.M52.m52
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->4140, a-> 14B, pcr-> 140, ServiceID->0503 : ServiceName : TEST HD3
+0033 (0x2c455be4) :  CM_ShowThisChannel] programNo : 1537, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV,   1-  1,   CUSTOM(1), v : 33, S1.P35.M1.m1
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  78, a->  83, pcr->  78, ServiceID->0601 : ServiceName : TF1
+0034 (0x2c455c40) :  CM_ShowThisChannel] programNo : 1538, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV,  12- 12,   CUSTOM(1), v : 34, S1.P35.M12.m12
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  DC, a->  E7, pcr->  DC, ServiceID->0602 : ServiceName : NRJ12
+0035 (0x2c455c9c) :  CM_ShowThisChannel] programNo : 1540, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV,  39- 39,   CUSTOM(1), v : 35, S1.P35.M39.m39
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v->41A4, a-> 1AE, pcr-> 1A4, ServiceID->0604 : ServiceName : Eurosport France
+0036 (0x2c455cf8) :  CM_ShowThisChannel] programNo : 1539, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV,  38- 38,   CUSTOM(1), v : 36, S1.P35.M38.m38
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v->4140, a-> 14A, pcr-> 140, ServiceID->0603 : ServiceName : LCI
+0037 (0x2c455d54) :  CM_ShowThisChannel] programNo : 1542, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV,  10- 10,   CUSTOM(1), v : 37, S1.P35.M10.m10
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 26C, a-> 276, pcr-> 26C, ServiceID->0606 : ServiceName : TMC
+0038 (0x2c455db0) :  CM_ShowThisChannel] programNo : 2273, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 821-  0,   CUSTOM(1), v : 38, S1.P36.M821.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  65, a->  68, pcr->  65, ServiceID->08e1 : ServiceName : Canal 9
+0039 (0x2c455e0c) :  CM_ShowThisChannel] programNo : 2274, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 822-  0,   CUSTOM(1), v : 39, S1.P36.M822.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  C9, a->  CC, pcr->  C9, ServiceID->08e2 : ServiceName : Punt 2
+0040 (0x2c455e68) :  CM_ShowThisChannel] programNo : 2275, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 823-  0,   CUSTOM(1), v : 40, S1.P36.M823.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 12D, a-> 12E, pcr-> 12D, ServiceID->08e3 : ServiceName : Popular TV
+0041 (0x2c455ec4) :  CM_ShowThisChannel] programNo : 2276, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 824-  0,   CUSTOM(1), v : 41, S1.P36.M824.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 191, a-> 192, pcr-> 191, ServiceID->08e4 : ServiceName : LAS PROVINCIAS TV
+0042 (0x2c455f20) :  CM_ShowThisChannel] programNo : 2285, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17193-  0,   CUSTOM(1), v : 42, S1.P36.M809.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 1F5, pcr-> 1F5, ServiceID->08ed : ServiceName : R?o Nou
+0043 (0x2c455f7c) :  CM_ShowThisChannel] programNo : 2286, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17194-  0,   CUSTOM(1), v : 43, S1.P36.M810.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 1F6, pcr-> 1F6, ServiceID->08ee : ServiceName : S??o
+0044 (0x2c455fd8) :  CM_ShowThisChannel] programNo : 13107, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 825-  0,   CUSTOM(1), v : 44, S1.P37.M825.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->4065, a->  66, pcr->  89, ServiceID->3333 : ServiceName : 3D Trial
+0045 (0x2c456034) :  CM_ShowThisChannel] programNo : 17, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 826-  0,   CUSTOM(1), v : 45, S1.P38.M826.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->0011 : ServiceName : YLE TV1
+0046 (0x2c456090) :  CM_ShowThisChannel] programNo : 33, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 827-  0,   CUSTOM(1), v : 46, S1.P38.M827.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->0021 : ServiceName : YLE TV2
+0047 (0x2c4560ec) :  CM_ShowThisChannel] programNo : 81, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 828-  0,   CUSTOM(1), v : 47, S1.P38.M828.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->0051 : ServiceName : YLE FST5
+0048 (0x2c456148) :  CM_ShowThisChannel] programNo : 129, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 829-  0,   CUSTOM(1), v : 48, S1.P38.M829.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->0081 : ServiceName : YLE TV1+
+0049 (0x2c4561a4) :  CM_ShowThisChannel] programNo : 145, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 830-  0,   CUSTOM(1), v : 49, S1.P38.M830.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 204, a-> 2B2, pcr-> 204, ServiceID->0091 : ServiceName : YLE Teema
+0050 (0x2c456200) :  CM_ShowThisChannel] programNo : 4369, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17195-  0,   CUSTOM(1), v : 50, S1.P38.M811.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->1111 : ServiceName : YLE PEILI
+0051 (0x2c45625c) :  CM_ShowThisChannel] programNo : 4401, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17196-  0,   CUSTOM(1), v : 51, S1.P38.M812.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->1131 : ServiceName : YLEN KLASSINEN
+0052 (0x2c4562b8) :  CM_ShowThisChannel] programNo : 4417, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17197-  0,   CUSTOM(1), v : 52, S1.P38.M813.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->1141 : ServiceName : YLE FSR+
+0053 (0x2c456314) :  CM_ShowThisChannel] programNo : 4433, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17198-  0,   CUSTOM(1), v : 53, S1.P38.M814.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->1151 : ServiceName : YLEMONDO
+0054 (0x2c456370) :  CM_ShowThisChannel] programNo : 4481, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17199-  0,   CUSTOM(1), v : 54, S1.P38.M815.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->1181 : ServiceName : YLE X3M
+0055 (0x2c4563cc) :  CM_ShowThisChannel] programNo : 111, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17200-  0,   CUSTOM(1), v : 55, S1.P39.M816.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 331, pcr->1FFE, ServiceID->006f : ServiceName : NRK Folkemusikk
+0056 (0x2c456428) :  CM_ShowThisChannel] programNo : 112, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17201-  0,   CUSTOM(1), v : 56, S1.P39.M817.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 332, pcr->1FFE, ServiceID->0070 : ServiceName : NRK Stortinget
+0057 (0x2c456484) :  CM_ShowThisChannel] programNo : 113, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17202-  0,   CUSTOM(1), v : 57, S1.P39.M818.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 333, pcr->1FFE, ServiceID->0071 : ServiceName : NRK Super
+0058 (0x2c4564e0) :  CM_ShowThisChannel] programNo : 114, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17203-  0,   CUSTOM(1), v : 58, S1.P39.M819.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 334, pcr->1FFE, ServiceID->0072 : ServiceName : NRK Sport
+0059 (0x2c45653c) :  CM_ShowThisChannel] programNo : 115, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17204-  0,   CUSTOM(1), v : 59, S1.P39.M820.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 335, pcr->1FFE, ServiceID->0073 : ServiceName : NRK Gull
+0060 (0x2c456598) :  CM_ShowThisChannel] programNo : 116, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17205-  0,   CUSTOM(1), v : 60, S1.P39.M821.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 336, pcr->1FFE, ServiceID->0074 : ServiceName : NRK Jazz
+0061 (0x2c4565f4) :  CM_ShowThisChannel] programNo : 117, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 831-  0,   CUSTOM(1), v : 61, S1.P39.M831.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v->420E, a-> 2B8, pcr-> 20E, ServiceID->0075 : ServiceName : TV3
+0062 (0x2c456650) :  CM_ShowThisChannel] programNo : 118, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 832-  0,   CUSTOM(1), v : 62, S1.P39.M832.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v->420F, a-> 2BC, pcr-> 20F, ServiceID->0076 : ServiceName : Viasat 4
+0063 (0x2c4566ac) :  CM_ShowThisChannel] programNo : 122, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 833-  0,   CUSTOM(1), v : 63, S1.P39.M833.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : IN  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->007a : ServiceName : Bootload
+0064 (0x2c456708) :  CM_ShowThisChannel] programNo : 119, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 834-  0,   CUSTOM(1), v : 64, S1.P39.M834.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v->4210, a-> 2C0, pcr-> 210, ServiceID->0077 : ServiceName : Disney Channel
+0065 (0x2c456764) :  CM_ShowThisChannel] programNo : 103, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 835-  0,   CUSTOM(1), v : 65, S1.P39.M835.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->4209, a-> 2A4, pcr->1FFE, ServiceID->0067 : ServiceName : NRK Super / NRK3
+0066 (0x2c4567c0) :  CM_ShowThisChannel] programNo : 104, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 836-  0,   CUSTOM(1), v : 66, S1.P39.M836.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->420C, a-> 2B0, pcr->1FFE, ServiceID->0068 : ServiceName : NRK Tegnspr?
+0067 (0x2c45681c) :  CM_ShowThisChannel] programNo : 105, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17206-  0,   CUSTOM(1), v : 67, S1.P39.M822.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 32B, pcr->1FFE, ServiceID->0069 : ServiceName : NRK P2
+0068 (0x2c456878) :  CM_ShowThisChannel] programNo : 106, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17207-  0,   CUSTOM(1), v : 68, S1.P39.M823.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 32C, pcr->1FFE, ServiceID->006a : ServiceName : NRK P3
+0069 (0x2c4568d4) :  CM_ShowThisChannel] programNo : 107, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17208-  0,   CUSTOM(1), v : 69, S1.P39.M824.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 32D, pcr->1FFE, ServiceID->006b : ServiceName : NRK Alltid Nyheter
+0070 (0x2c456930) :  CM_ShowThisChannel] programNo : 108, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17209-  0,   CUSTOM(1), v : 70, S1.P39.M825.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 32E, pcr->1FFE, ServiceID->006c : ServiceName : NRK mP3
+0071 (0x2c45698c) :  CM_ShowThisChannel] programNo : 109, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17210-  0,   CUSTOM(1), v : 71, S1.P39.M826.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 32F, pcr->1FFE, ServiceID->006d : ServiceName : NRK Klassisk
+0072 (0x2c4569e8) :  CM_ShowThisChannel] programNo : 110, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17211-  0,   CUSTOM(1), v : 72, S1.P39.M827.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 330, pcr->1FFE, ServiceID->006e : ServiceName : NRK S? Radio
+0073 (0x2c456a44) :  CM_ShowThisChannel] programNo : 102, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 837-  0,   CUSTOM(1), v : 73, S1.P39.M837.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->420D, a-> 2B4, pcr->1FFE, ServiceID->0066 : ServiceName : NRK2
+0074 (0x2c456aa0) :  CM_ShowThisChannel] programNo : 1001, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 838-  0,   CUSTOM(1), v : 74, S1.P39.M838.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->4200, a-> 280, pcr->1FFE, ServiceID->03e9 : ServiceName : NRK1 ?tnytt
+0075 (0x2c456afc) :  CM_ShowThisChannel] programNo : 1102, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17212-  0,   CUSTOM(1), v : 75, S1.P39.M828.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 320, pcr->1FFE, ServiceID->044e : ServiceName : NRK P1 Oslo/Akershus
+0076 (0x2c456b58) :  CM_ShowThisChannel] programNo : 1002, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 839-  0,   CUSTOM(1), v : 76, S1.P39.M839.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->4200, a-> 280, pcr->1FFE, ServiceID->03ea : ServiceName : NRK1 ?tlandssendingen
+0077 (0x2c456bb4) :  CM_ShowThisChannel] programNo : 100, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 840-  0,   CUSTOM(1), v : 77, S1.P40.M840.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 134, a-> 100, pcr->1FFE, ServiceID->0064 : ServiceName : PTG3000 Pattern
+0078 (0x2c456c10) :  CM_ShowThisChannel] programNo : 101, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 841-  0,   CUSTOM(1), v : 78, S1.P41.M841.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  6F, a->  79, pcr->  6F, ServiceID->0065 : ServiceName : DR1
+0079 (0x2c456c6c) :  CM_ShowThisChannel] programNo : 102, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 842-  0,   CUSTOM(1), v : 79, S1.P41.M842.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  D3, a->  DD, pcr->  D3, ServiceID->0066 : ServiceName : DR2
+0080 (0x2c456cc8) :  CM_ShowThisChannel] programNo : 103, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 843-  0,   CUSTOM(1), v : 80, S1.P41.M843.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->0067 : ServiceName : Tegnsprogstolkning
+0081 (0x2c456d24) :  CM_ShowThisChannel] programNo : 217, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 844-  0,   CUSTOM(1), v : 81, S1.P41.M844.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 83F, a-> 84B, pcr-> 83F, ServiceID->00d9 : ServiceName : TV 2 (Lorry)
+0082 (0x2c456d80) :  CM_ShowThisChannel] programNo : 31, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 845-  0,   CUSTOM(1), v : 82, S1.P42.M845.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> BC3, a-> BC4, pcr-> BC3, ServiceID->001f : ServiceName : Veronica/Jetix
+0083 (0x2c456ddc) :  CM_ShowThisChannel] programNo : 32, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 846-  0,   CUSTOM(1), v : 83, S1.P42.M846.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> BCD, a-> BCE, pcr-> BCD, ServiceID->0020 : ServiceName : RTL 8
+0084 (0x2c456e38) :  CM_ShowThisChannel] programNo : 33, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 847-  0,   CUSTOM(1), v : 84, S1.P42.M847.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> BD7, a-> BD8, pcr-> BD7, ServiceID->0021 : ServiceName : ?
+0085 (0x2c456e94) :  CM_ShowThisChannel] programNo : 34, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 848-  0,   CUSTOM(1), v : 85, S1.P42.M848.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> BE1, a-> BE2, pcr-> BE1, ServiceID->0022 : ServiceName : Canvas/Ketnet
+0086 (0x2c456ef0) :  CM_ShowThisChannel] programNo : 35, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 849-  0,   CUSTOM(1), v : 86, S1.P42.M849.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> BEB, a-> BEC, pcr-> BEB, ServiceID->0023 : ServiceName : Nickelodeon/ComedyCentral
+0087 (0x2c456f4c) :  CM_ShowThisChannel] programNo : 36, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 850-  0,   CUSTOM(1), v : 87, S1.P42.M850.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> BF5, a-> BF6, pcr-> BF5, ServiceID->0024 : ServiceName : Discovery Channel
+0088 (0x2c456fa8) :  CM_ShowThisChannel] programNo : 37, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 851-  0,   CUSTOM(1), v : 88, S1.P42.M851.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> BFF, a-> C00, pcr-> BFF, ServiceID->0025 : ServiceName : Eurosport 1
+0089 (0x2c457004) :  CM_ShowThisChannel] programNo : 38, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 852-  0,   CUSTOM(1), v : 89, S1.P42.M852.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : SC
+ PID : v-> C09, a-> C0A, pcr-> C09, ServiceID->0026 : ServiceName : Private Spice
+0090 (0x2c457060) :  CM_ShowThisChannel] programNo : 1, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 853-  0,   CUSTOM(1), v : 90, S1.P44.M853.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 200, a-> 280, pcr->  80, ServiceID->0001 : ServiceName : CINE+
+0091 (0x2c4570bc) :  CM_ShowThisChannel] programNo : 2, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 854-  0,   CUSTOM(1), v : 91, S1.P44.M854.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 201, a-> 281, pcr->  81, ServiceID->0002 : ServiceName : SPORT+
+0092 (0x2c457118) :  CM_ShowThisChannel] programNo : 3, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 855-  0,   CUSTOM(1), v : 92, S1.P44.M855.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 202, a-> 282, pcr->  82, ServiceID->0003 : ServiceName : PRISMA+
+0093 (0x2c457174) :  CM_ShowThisChannel] programNo : 4, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 856-  0,   CUSTOM(1), v : 93, S1.P44.M856.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 203, a-> 283, pcr->  83, ServiceID->0004 : ServiceName : PIK
+0094 (0x2c4571d0) :  CM_ShowThisChannel] programNo : 10123, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 857-  0,   CUSTOM(1), v : 94, S1.P46.M857.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 41A, a-> 41B, pcr-> 41A, ServiceID->278b : ServiceName : PULS 4
+0095 (0x2c45722c) :  CM_ShowThisChannel] programNo : 11102, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 858-  0,   CUSTOM(1), v : 95, S1.P46.M858.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 41F, a-> 421, pcr-> 41F, ServiceID->2b5e : ServiceName : 3SAT
+0096 (0x2c457288) :  CM_ShowThisChannel] programNo : 11103, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 859-  0,   CUSTOM(1), v : 96, S1.P46.M859.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 424, a-> 425, pcr-> 424, ServiceID->2b5f : ServiceName : ORF Sport Plus
+0097 (0x2c4572e4) :  CM_ShowThisChannel] programNo : 15551, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 860-  0,   CUSTOM(1), v : 97, S1.P47.M860.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->444C, a-> 44D, pcr-> 44C, ServiceID->3cbf : ServiceName : m2 HD
+0098 (0x2c457340) :  CM_ShowThisChannel] programNo : 15552, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 861-  0,   CUSTOM(1), v : 98, S1.P47.M861.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->44B0, a-> 4B1, pcr-> 4B0, ServiceID->3cc0 : ServiceName : m1 HD
+0099 (0x2c45739c) :  CM_ShowThisChannel] programNo : 4, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 862-  0,   CUSTOM(1), v : 99, S1.P48.M862.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  51, a->  52, pcr->  51, ServiceID->0004 : ServiceName : Autonomia
+0100 (0x2c4573f8) :  CM_ShowThisChannel] programNo : 3, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 863-  0,   CUSTOM(1), v : 100, S1.P48.M863.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  41, a->  42, pcr->  41, ServiceID->0003 : ServiceName : DunaTV
+0101 (0x2c457454) :  CM_ShowThisChannel] programNo : 1, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 864-  0,   CUSTOM(1), v : 101, S1.P48.M864.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  21, a->  22, pcr->  21, ServiceID->0001 : ServiceName : m1
+0102 (0x2c4574b0) :  CM_ShowThisChannel] programNo : 2, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 865-  0,   CUSTOM(1), v : 102, S1.P48.M865.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  31, a->  32, pcr->  31, ServiceID->0002 : ServiceName : m2
+0103 (0x2c45750c) :  CM_ShowThisChannel] programNo : 1, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 866-  0,   CUSTOM(1), v : 103, S1.P50.M866.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  65, a->  66, pcr->  65, ServiceID->0001 : ServiceName : HTV1
+0104 (0x2c457568) :  CM_ShowThisChannel] programNo : 2, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 867-  0,   CUSTOM(1), v : 104, S1.P50.M867.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  C9, a->  CA, pcr->  C9, ServiceID->0002 : ServiceName : HTV2
+0105 (0x2c4575c4) :  CM_ShowThisChannel] programNo : 3, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 868-  0,   CUSTOM(1), v : 105, S1.P50.M868.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 12D, a-> 12E, pcr-> 12D, ServiceID->0003 : ServiceName : RTL TV
+0106 (0x2c457620) :  CM_ShowThisChannel] programNo : 4, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 869-  0,   CUSTOM(1), v : 106, S1.P50.M869.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 191, a-> 192, pcr-> 191, ServiceID->0004 : ServiceName : NOVA TV
+0107 (0x2c45767c) :  CM_ShowThisChannel] programNo : 1200, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 870-  0,   CUSTOM(1), v : 107, S1.P51.M870.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->40FA, a-> 12C, pcr->  FA, ServiceID->04b0 : ServiceName : TV ONE 
+0108 (0x2c4576d8) :  CM_ShowThisChannel] programNo : 1201, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 871-  0,   CUSTOM(1), v : 108, S1.P51.M871.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->40FB, a-> 12D, pcr->  FB, ServiceID->04b1 : ServiceName : TV2
+0109 (0x2c457734) :  CM_ShowThisChannel] programNo : 1202, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 872-  0,   CUSTOM(1), v : 109, S1.P51.M872.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->40FC, a-> 12E, pcr->  FC, ServiceID->04b2 : ServiceName : TVNZ 6
+0110 (0x2c457790) :  CM_ShowThisChannel] programNo : 1203, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 873-  0,   CUSTOM(1), v : 110, S1.P51.M873.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->40FD, a-> 12F, pcr->  FD, ServiceID->04b3 : ServiceName : TVNZ 7
+0111 (0x2c4577ec) :  CM_ShowThisChannel] programNo : 1204, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 874-  0,   CUSTOM(1), v : 111, S1.P51.M874.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->40FE, a-> 130, pcr->  FE, ServiceID->04b4 : ServiceName : TVNZ SPORT EXTRA
+0112 (0x2c457848) :  CM_ShowThisChannel] programNo : 1400, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 875-  0,   CUSTOM(1), v : 112, S1.P52.M875.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->4226, a-> 258, pcr-> 226, ServiceID->0578 : ServiceName : Maori Television
+0113 (0x2c4578a4) :  CM_ShowThisChannel] programNo : 1401, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 876-  0,   CUSTOM(1), v : 113, S1.P52.M876.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->4227, a-> 259, pcr-> 227, ServiceID->0579 : ServiceName : Parliament TV
+0114 (0x2c457900) :  CM_ShowThisChannel] programNo : 1402, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 877-  0,   CUSTOM(1), v : 114, S1.P52.M877.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->4228, a-> 25A, pcr-> 228, ServiceID->057a : ServiceName : Reserved 3KSD
+0115 (0x2c45795c) :  CM_ShowThisChannel] programNo : 1403, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 878-  0,   CUSTOM(1), v : 115, S1.P52.M878.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->4229, a-> 25B, pcr-> 229, ServiceID->057b : ServiceName : Reserved 4KSD
+0116 (0x2c4579b8) :  CM_ShowThisChannel] programNo : 1404, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 879-  0,   CUSTOM(1), v : 116, S1.P52.M879.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->422A, a-> 25C, pcr-> 22A, ServiceID->057c : ServiceName : Reserved 5KSD
+0117 (0x2c457a14) :  CM_ShowThisChannel] programNo : 1405, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 880-  0,   CUSTOM(1), v : 117, S1.P52.M880.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->422B, a-> 25D, pcr-> 22B, ServiceID->057d : ServiceName : Reserved 6KSD
+0118 (0x2c457a70) :  CM_ShowThisChannel] programNo : 1406, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 881-  0,   CUSTOM(1), v : 118, S1.P52.M881.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->422C, a-> 25E, pcr-> 22C, ServiceID->057e : ServiceName : Reserved 1KHD
+0119 (0x2c457acc) :  CM_ShowThisChannel] programNo : 1408, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 882-  0,   CUSTOM(1), v : 119, S1.P52.M882.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->0580 : ServiceName : Reserved 1KL
+0120 (0x2c457b28) :  CM_ShowThisChannel] programNo : 1409, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 883-  0,   CUSTOM(1), v : 120, S1.P52.M883.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->0581 : ServiceName : Reserved 2KL
+0121 (0x2c457b84) :  CM_ShowThisChannel] programNo : 2000, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17213-  0,   CUSTOM(1), v : 121, S1.P52.M829.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->07d0 : ServiceName : Concert-FM
+0122 (0x2c457be0) :  CM_ShowThisChannel] programNo : 2001, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17214-  0,   CUSTOM(1), v : 122, S1.P52.M830.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->07d1 : ServiceName : National-Radio
+0123 (0x2c457c3c) :  CM_ShowThisChannel] programNo : 2002, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17215-  0,   CUSTOM(1), v : 123, S1.P52.M831.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->07d2 : ServiceName : Radio Reserved 1K
+0124 (0x2c457c98) :  CM_ShowThisChannel] programNo : 2003, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17216-  0,   CUSTOM(1), v : 124, S1.P52.M832.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->07d3 : ServiceName : Radio Reserved 2K
+0125 (0x2c457cf4) :  CM_ShowThisChannel] programNo : 1, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 884-  0,   CUSTOM(1), v : 125, S1.P53.M884.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->4031, a->  32, pcr->  31, ServiceID->0001 : ServiceName : HD-MPEG4
+0126 (0x2c457d50) :  CM_ShowThisChannel] programNo : 63, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 885-  0,   CUSTOM(1), v : 126, S1.P53.M885.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->  41, a->  59, pcr->  41, ServiceID->003f : ServiceName : SABC3
+0127 (0x2c457dac) :  CM_ShowThisChannel] programNo : 105, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 886-  0,   CUSTOM(1), v : 127, S1.P53.M886.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v-> 110, a-> 111, pcr-> 110, ServiceID->0069 : ServiceName : ETV
+0128 (0x2c457e08) :  CM_ShowThisChannel] programNo : 318, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17217-  0,   CUSTOM(1), v : 128, S1.P53.M833.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 318, pcr-> 318, ServiceID->013e : ServiceName : ClassicFM
+0129 (0x2c457e64) :  CM_ShowThisChannel] programNo : 319, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17218-  0,   CUSTOM(1), v : 129, S1.P53.M834.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a-> 319, pcr-> 319, ServiceID->013f : ServiceName : DWRadio
+0130 (0x2c457ec0) :  CM_ShowThisChannel] programNo : 331, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17219-  0,   CUSTOM(1), v : 130, S1.P53.M835.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->  27, pcr->  27, ServiceID->014b : ServiceName : 5FM
+0131 (0x2c457f1c) :  CM_ShowThisChannel] programNo : 346, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17220-  0,   CUSTOM(1), v : 131, S1.P53.M836.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->  57, pcr->  57, ServiceID->015a : ServiceName : GHFM
+0132 (0x2c457f78) :  CM_ShowThisChannel] programNo : 17024, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 887-  0,   CUSTOM(1), v : 132, S1.P55.M887.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->4280 : ServiceName : BBC Parliament
+0133 (0x2c457fd4) :  CM_ShowThisChannel] programNo : 16832, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 888-  0,   CUSTOM(1), v : 133, S1.P55.M888.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->41c0 : ServiceName : BBC FOUR
+0134 (0x2c458030) :  CM_ShowThisChannel] programNo : 16960, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 889-  0,   CUSTOM(1), v : 134, S1.P55.M889.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->4240 : ServiceName : CBeebies
+0135 (0x2c45808c) :  CM_ShowThisChannel] programNo : 17920, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17221-  0,   CUSTOM(1), v : 135, S1.P55.M837.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->4600 : ServiceName : BBC R5 Live
+0136 (0x2c4580e8) :  CM_ShowThisChannel] programNo : 17984, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17222-  0,   CUSTOM(1), v : 136, S1.P55.M838.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->4640 : ServiceName : BBC 5L SportsX
+0137 (0x2c458144) :  CM_ShowThisChannel] programNo : 18048, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17223-  0,   CUSTOM(1), v : 137, S1.P55.M839.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->4680 : ServiceName : BBC 6 Music
+0138 (0x2c4581a0) :  CM_ShowThisChannel] programNo : 18112, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17224-  0,   CUSTOM(1), v : 138, S1.P55.M840.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->46c0 : ServiceName : BBC 7
+0139 (0x2c4581fc) :  CM_ShowThisChannel] programNo : 18176, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17225-  0,   CUSTOM(1), v : 139, S1.P55.M841.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->4700 : ServiceName : 1Xtra BBC
+0140 (0x2c458258) :  CM_ShowThisChannel] programNo : 18240, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 17226-  0,   CUSTOM(1), v : 140, S1.P55.M842.m0(Radio)
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->4740 : ServiceName : BBC Asian Net.
+0141 (0x2c4582b4) :  CM_ShowThisChannel] programNo : 19456, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 890-  0,   CUSTOM(1), v : 141, S1.P55.M890.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->4c00 : ServiceName : 301
+0142 (0x2c458310) :  CM_ShowThisChannel] programNo : 19520, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 891-  0,   CUSTOM(1), v : 142, S1.P55.M891.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->4c40 : ServiceName : 302
+0143 (0x2c45836c) :  CM_ShowThisChannel] programNo : 19584, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 892-  0,   CUSTOM(1), v : 143, S1.P55.M892.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->4c80 : ServiceName : 303
+0144 (0x2c4583c8) :  CM_ShowThisChannel] programNo : 16768, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 893-  0,   CUSTOM(1), v : 144, S1.P55.M893.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->4180 : ServiceName : 305
+0145 (0x2c458424) :  CM_ShowThisChannel] programNo : 19968, bDel: +, dis: +, bNumUnSel : +, src(1)  DTV, 894-  0,   CUSTOM(1), v : 145, S1.P55.M894.m0
+ CM_ShowThisChannel] SkippedOrHidden:--  Blocked : --    Invisible : --  Scrambled : --
+ PID : v->1FFF, a->1FFF, pcr->1FFF, ServiceID->4e00 : ServiceName : Community
