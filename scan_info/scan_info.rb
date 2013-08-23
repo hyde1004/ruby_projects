@@ -9,10 +9,6 @@ raw_file = File.open("d:\\log\\channel_info.txt")
 
 count = 0
 raw_file.each_line do |line|
-	if (count%3 == 0)
-		count = 0
-	end
-
 	service = Hash.new
 
 	if (line =~ /^[0-9][0-9][0-9][0-9]/)
@@ -46,7 +42,9 @@ raw_file.each_line do |line|
 	end
 
 	count = count + 1
-	if (count == 3)
-		puts service
+	if (count % 3 == 0)
+		puts "#{count/3} #{service}"
 	end
 end
+
+#puts "total : #{service.size}"
